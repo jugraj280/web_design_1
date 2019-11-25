@@ -1,0 +1,44 @@
+  *{box-sizing: border-box}
+    body {float: left;width: 100%;
+  }
+  .navbar{
+    float: left;width: 100%;
+  }
+  .milo{
+    align-items: center;
+  }
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+li {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+}
+.about {
+  float: right;
+}
+  .c{
+    float: left;width: 100%;background: green;
+    }
+    .c1{
+    float: left;width: 40%;}
+    .sing{float: left;width: 100%;}
+    .lifestlye{float: left;width: 100%;}
+    .overself{float: left;width: 100%;}
+  
+    .c2{
+    float: left;width: 40%;}
+    .paper{float: left;width: 100%;}
+    .news{float: left;width: 100%;}
+    .love{float: left;width: 100%;}
+    .c3{
+    float: left;width: 20%;}
+    .abou{float: left;width: 100%;}
+    .tags{float: left;width: 100%;}
+    .popular{float: left;width: 100%;}
